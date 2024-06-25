@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Homepage</title>
+  </head>
+  <body>
+    <h1 style="text-align:center;color:blue;background-color:lime">Welcome to <b><u>FlopMC</u></b>!</h1>
+    <hr>
+    <h2 style="text-align:center;color:green"><b>This webpage is still under construction. Feel free to come back when we are ready!</b></h2><br>
+    <p style="font-size:18px;text-align:left;color:blue">Kind regards,</p>
+    <p style="font-size:18px;text-align:left;color:red">The FlopMC Development Team</p>
+  <br>
+    <p style="font-size:14px;text-align:left;color:black">Last Updated: [Alpha] 2024-06-25 13:00 BST</p>
+  </body>
+</html>
